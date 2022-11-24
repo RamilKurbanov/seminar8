@@ -1,0 +1,5 @@
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\domrabota\star\obj\Debug\net6.0\star.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\domrabota\star\obj\Debug\net6.0\star.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\domrabota\star\obj\Debug\net6.0\star.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\domrabota\star\obj\Debug\net6.0\star.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Рабочий стол\seminar\domrabota\star\obj\Debug\net6.0\star.csproj.CoreCompileInputs.cache
